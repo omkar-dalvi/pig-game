@@ -5,5 +5,5 @@
 - The player reaching the winning score that is entered in the text box below wins
 - The New Game button initializes a new game
 
-Enjoy Playing!!
+Enjoy Playing!! <br>
 Cheers!
